@@ -1,0 +1,86 @@
+[
+    {
+        "code": "SFO",
+        "title": "San Francisco",
+        "price": "200",
+        "tags": ["City", "Domestic"],
+        "image": "/images/destinations/sfo.png"
+    },
+    {
+        "code": "ORD",
+        "title": "Chicago",
+        "price": "120",
+        "tags": ["City", "Domestic"],
+        "image": "/images/destinations/ord.png"
+    },
+    {
+        "code": "NYC",
+        "title": "New York",
+        "price": "310",
+        "tags": ["City", "Domestic"],
+        "image": "/images/destinations/nyc.png"
+    },
+    {
+        "code": "SYD",
+        "title": "Sydney",
+        "price": "1230",
+        "tags": ["City", "International"],
+        "image": "/images/destinations/syd.png"
+    },
+    {
+        "code": "LHR",
+        "title": "London",
+        "price": "980",
+        "tags": ["City", "International"],
+        "image": "/images/destinations/lhr.png"
+    },
+    {
+        "code": "BKK",
+        "title": "Bangkok",
+        "price": "750",
+        "tags": ["City", "International"],
+        "image": "/images/destinations/bkk.png"
+    },
+    {
+        "code": "HKG",
+        "title": "Hong Kong",
+        "price": "643",
+        "tags": ["City", "International"],
+        "image": "/images/destinations/hkg.png"
+    },
+    {
+        "code": "SIN",
+        "title": "Singapore",
+        "price": "934",
+        "tags": ["City", "International"],
+        "image": "/images/destinations/sin.png"
+    },
+    {
+        "code": "TPE",
+        "title": "Taipei",
+        "price": "1340",
+        "tags": ["City", "International"],
+        "image": "/images/destinations/tpe.png"
+    },
+    {
+        "code": "LIH",
+        "title": "Lihue",
+        "price": "650",
+        "tags": ["Tropical", "Domestic"],
+        "image": "/images/destinations/lih.png"
+    },
+    {
+        "code": "DPS",
+        "title": "Bali",
+        "price": "1350",
+        "tags": ["Tropical", "International"],
+        "image": "/images/destinations/dps.png"
+    },
+    {
+        "code": "HTI",
+        "title": "Hamilton Island",
+        "price": "679",
+        "tags": ["Tropical", "International"],
+        "image": "/images/destinations/hti.png"
+    }
+]
